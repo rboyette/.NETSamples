@@ -1,2 +1,2 @@
 # .NETSamples
-To make testing easier for all
+To make .NET easier for all
