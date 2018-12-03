@@ -1,0 +1,6 @@
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnit Samples.deps.json
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnit Samples.dll
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnit Samples.csprojResolveAssemblyReference.cache
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnit Samples.csproj.CoreCompileInputs.cache
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnit Samples.AssemblyInfoInputs.cache
+C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnit Samples.AssemblyInfo.cs
