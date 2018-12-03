@@ -14,3 +14,19 @@ C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Sampl
 C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.pdb
 C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.runtimeconfig.json
 C:\Users\Boyette\Documents\Visual Studio 2017\Projects\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.runtimeconfig.dev.json
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.deps.json
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.runtimeconfig.json
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.runtimeconfig.dev.json
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.dll
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\NUnitSamples.pdb
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\APIServices.dll
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\bin\Debug\netcoreapp2.0\APIServices.pdb
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.csprojResolveAssemblyReference.cache
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.csproj.CoreCompileInputs.cache
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.AssemblyInfoInputs.cache
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.AssemblyInfo.cs
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.dll
+C:\Users\Boyette\Source\Repos\rboyette\.NETSamples\NUnit Samples\NUnit Samples\obj\Debug\netcoreapp2.0\NUnitSamples.pdb

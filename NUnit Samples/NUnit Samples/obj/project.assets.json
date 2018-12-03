@@ -6817,11 +6817,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boyette\\Documents\\Visual Studio 2017\\Projects\\NUnit Samples\\NUnit Samples\\NUnitSamples.csproj",
+      "projectUniqueName": "C:\\Users\\Boyette\\Source\\Repos\\rboyette\\.NETSamples\\NUnit Samples\\NUnit Samples\\NUnitSamples.csproj",
       "projectName": "NUnitSamples",
-      "projectPath": "C:\\Users\\Boyette\\Documents\\Visual Studio 2017\\Projects\\NUnit Samples\\NUnit Samples\\NUnitSamples.csproj",
+      "projectPath": "C:\\Users\\Boyette\\Source\\Repos\\rboyette\\.NETSamples\\NUnit Samples\\NUnit Samples\\NUnitSamples.csproj",
       "packagesPath": "C:\\Users\\Boyette\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boyette\\Documents\\Visual Studio 2017\\Projects\\NUnit Samples\\NUnit Samples\\obj\\",
+      "outputPath": "C:\\Users\\Boyette\\Source\\Repos\\rboyette\\.NETSamples\\NUnit Samples\\NUnit Samples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -6842,8 +6842,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Boyette\\Documents\\Visual Studio 2017\\Projects\\NUnit Samples\\APIServices\\APIServices.csproj": {
-              "projectPath": "C:\\Users\\Boyette\\Documents\\Visual Studio 2017\\Projects\\NUnit Samples\\APIServices\\APIServices.csproj"
+            "C:\\Users\\Boyette\\Source\\Repos\\rboyette\\.NETSamples\\NUnit Samples\\APIServices\\APIServices.csproj": {
+              "projectPath": "C:\\Users\\Boyette\\Source\\Repos\\rboyette\\.NETSamples\\NUnit Samples\\APIServices\\APIServices.csproj"
             }
           }
         }

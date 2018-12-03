@@ -59,7 +59,7 @@ namespace NUnitSamples.Factories
                          State = "WA",
                          ZipCode = "99206",
                          Age = 23,
-                         Id = 1243,
+                         Id = 1253,
                          PhoneNumer = "509-555-1258"
                     },
                     new PersonDto
@@ -71,7 +71,7 @@ namespace NUnitSamples.Factories
                          State = "WA",
                          ZipCode = "99206",
                          Age = 23,
-                         Id = 1243,
+                         Id = 1263,
                          PhoneNumer = "509-555-1258"
                     },
                 }
